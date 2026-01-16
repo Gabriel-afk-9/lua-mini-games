@@ -13,10 +13,6 @@ Este repositório serve como uma coleção de projetos e códigos de exemplo des
 
 ## ⚙️ Como Executar
 
-Para rodar os projetos contidos neste repositório, você precisará ter o **LÖVE 2D** instalado em sua máquina.
-
-### Pré-requisitos
-
 1.  **Instale o LÖVE 2D:** Baixe e instale a versão mais recente do framework em [https://love2d.org/](https://love2d.org/).
 3. **Extensões | VS Code**
    - Lua (por sumneko) — suporte completo para Lua com IntelliSense
