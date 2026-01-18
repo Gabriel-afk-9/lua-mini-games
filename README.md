@@ -26,7 +26,7 @@ Este repositório serve como uma coleção de projetos e códigos de exemplo des
     ```
 
 3. **Executar com Alt+L:**
-Se você instalou a extensão LÖVE 2D Support no VS Code:
+   - Se você instalou a extensão LÖVE 2D Support no VS Code:
     ```bash
     1. Abra a pasta do projeto em VS Code 
        com o arquivo main.lua aberto, pressione Alt+L
