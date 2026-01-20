@@ -33,11 +33,11 @@ Uma versão modificada do clássico Flappy Bird com efeitos especiais que altera
 3. **Executar um Jogo Específico:**
 Navegue até a pasta do jogo desejado e execute o comando `love`:
 
-```bash
-# Exemplo para o Flappy Chaos
-cd Flappy-Chaos
-love .
-```
+    ```bash
+    # Exemplo para o Flappy Chaos
+    cd Flappy-Chaos
+    love .
+    ```
 
 ## 💡 Dicas para Desenvolvedores (VS Code)
 
